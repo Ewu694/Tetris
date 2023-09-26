@@ -1,2 +1,2 @@
 # Tetris
-Created with CodeSandbox
+Created using React
